@@ -1,4 +1,4 @@
-package com.dharma.service.beans;
+package com.dharma.springcloud.dharmamallservice.beans;
 
 public class Product {
 
